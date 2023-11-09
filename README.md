@@ -7,11 +7,9 @@ Hi! Cool to have you here :) This is a follow-up assignment to the Intro to CMak
 
 
 ## Hardware choice
-You can choose between a STM32F0 discovery kit or FRDM-KL25Z. 
+You will get a STM32F0 discovery kit.
 
 The STM32F0 discovery devkit is pretty barebones and doesn't have much hardware onboard.Just for fun an lcd and potentiometer is provided, you are not obliged to do anything with these accesoires though you can. You may also choose to combine the devkit with a Roomba and do fun stuff using the SCI port.
-
-The FRDM-KL25Z is a devkit most of you are probably familair with from the MIC2 course. It is a fun little devkit with a RGB led and accelerometer onboard. Of course you may choose to add a display or any other accesoire to this option. Do whatever suits you.
  
 ## Software preparation
 For this assignment you need the following software installed:
@@ -22,3 +20,9 @@ For this assignment you need the following software installed:
 - Any code editor you would like to use, vscode and clion presets are supplied in this repo.
 
 For installation take a look at [installation.md](docs/installation.md)
+
+## Getting started
+
+First of all scan over the [CMake_basics.md](docs/CMake_basics.md) file. This might come in handy later..
+
+Then proceed by following the [STM32F0.md](docs/STM32F0.md) guide.
