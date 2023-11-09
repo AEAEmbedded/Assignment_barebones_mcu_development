@@ -1,6 +1,6 @@
 # Debug using Segger Ozone
 
-Segger Ozone is one of the most used visual debuggers used for debugging ARM Cortex-M controllers. This guide will help you get started.
+Segger Ozone is one of the most used visual debuggers used for debugging ARM Cortex-M controllers. This guide will help you set-up your (first) Ozone project.
 
 ## Prerequisites
 To be able to debug using Segger Ozone you need the following:
